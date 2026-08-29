@@ -163,9 +163,9 @@ export const botConfig = {
       // Currency display name.
       name: "RiverSucking",
       // Plural display name.
-      namePlural: "coins",
+      namePlural: "RiverSuckings",
       // Currency symbol shown in balances.
-      symbol: "$",
+      symbol: "👅",
     },
 
     // Starting balance for new users.
